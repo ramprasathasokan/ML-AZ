@@ -6,5 +6,5 @@ so while opening in colab kindly download the mentioned dataset from
 Datasets folder and run only the cells under **Alternate: Upload dataset from local drive**
 for uploading datasets alone.
 
-Note: Kindly refer NOTEBOOK ORDER.txt for proper order w.r.t concepts.
+Note: Kindly refer NOTEBOOK ORDER.txt for proper order of concepts.
 

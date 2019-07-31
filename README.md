@@ -8,3 +8,5 @@ for uploading datasets alone.
 
 Note: Kindly refer NOTEBOOK ORDER.txt for proper order of concepts.
 
+Disclaimer: Notebooks here are only for reference purpose.
+

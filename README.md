@@ -1,5 +1,5 @@
 # ML-AZ
-Hola! 
+Hello! 
 
   The following notebooks has datasets uploaded from my Google Drive,
 so while opening in **Google Colab** kindly download the mentioned dataset from 
@@ -11,4 +11,3 @@ Note: Kindly refer NOTEBOOK ORDER.md for proper order of concepts.
 Disclaimer: Notebooks here are only for reference purpose.
 
 Adiós!
-
